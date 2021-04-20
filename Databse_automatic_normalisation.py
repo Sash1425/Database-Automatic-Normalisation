@@ -81,3 +81,7 @@ def Create_tables():
         final_array.append(T+str(i))
         
     return final_array
+
+
+def union(A1,PrimeAttributes):
+    pass 
